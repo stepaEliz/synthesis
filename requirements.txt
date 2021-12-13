@@ -5,7 +5,7 @@ chardet==3.0.4
 Django==3.0.6
 fake-useragent==0.1.11
 idna==2.9
-lxml==4.5.1
+lxml==4.6.5
 pytz==2020.1
 requests==2.23.0
 soupsieve==2.0.1
